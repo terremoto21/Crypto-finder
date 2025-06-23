@@ -1,5 +1,6 @@
 # Crypto-finder
 Best tool to generate wallets and check their balance on all chains
+Release Updated (25/06/2025)
 
 ![finder](https://github.com/user-attachments/assets/8872e626-681f-496c-9729-b8d24a973e78)
 
